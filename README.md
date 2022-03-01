@@ -1,2 +1,5 @@
-# piechart-portfolio
-describe my portfolio with a piechart by type and by name
+# Piechart Portfolio
+
+Describe portfolio with a piechart by type and by name
+
+
