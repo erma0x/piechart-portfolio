@@ -1,0 +1,7 @@
+name,value,type
+bitcoin,150,crypto
+ethereum,200,crypto
+Usdt-usdc,300,crypto
+Apple,150,stock
+Microsoft,200,stock
+SNP500,350,index
